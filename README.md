@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+whoami+%E2%86%92+Ibrahim;CyberSec+%7C+FullStack+%7C+OSINT)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&repeat=true&width=600&height=60&lines=%24+whoami+%E2%86%92+Zoxionx;CyberSec+%7C+FullStack+%7C+OSINT)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -11,13 +11,13 @@
 ## 🧑‍💻 About Me
 
 ```bash
-┌──(ibrahim㉿kali)-[~]
+┌──(zoxionx㉿kali)-[~]
 └─$ cat about_me.txt
 ```
 
 > Cybersecurity Enthusiast | Full Stack Developer | OSINT Researcher | Telegram Bot Developer
 
-I'm **Ibrahim** — a passionate security researcher and full-stack developer who thrives at the intersection of **offensive security** and **modern web development**. I work extensively with **Kali Linux**, security tools, and automation scripts to identify vulnerabilities and build robust, secure systems.
+I'm **Zoxionx** — a passionate security researcher and full-stack developer who thrives at the intersection of **offensive security** and **modern web development**. I work extensively with **Kali Linux**, security tools, and automation scripts to identify vulnerabilities and build robust, secure systems.
 
 My mission is to make the digital world safer through **ethical hacking**, **vulnerability research**, and building **cybersecurity tools** that empower security professionals.
 
@@ -72,7 +72,7 @@ My mission is to make the digital world safer through **ethical hacking**, **vul
 ## 🔐 Cybersecurity Tools
 
 ```bash
-┌──(ibrahim㉿kali)-[~/arsenal]
+┌──(zoxionx㉿kali)-[~/arsenal]
 └─$ ls -la tools/
 ```
 
@@ -87,7 +87,7 @@ My mission is to make the digital world safer through **ethical hacking**, **vul
 ## 🕵️ OSINT Interests
 
 ```bash
-┌──(ibrahim㉿kali)-[~/osint]
+┌──(zoxionx㉿kali)-[~/osint]
 └─$ echo "Intelligence Gathering Domains"
 ```
 
@@ -135,7 +135,7 @@ My mission is to make the digital world safer through **ethical hacking**, **vul
 ## 🤖 Telegram Bot Development
 
 ```bash
-┌──(ibrahim㉿kali)-[~/bots]
+┌──(zoxionx㉿kali)-[~/bots]
 └─$ python3 bot_manager.py --status
 ```
 
@@ -216,7 +216,7 @@ I build **Telegram bots** for security automation, monitoring, and productivity:
 
 ## 📈 Contribution Graph
 
-[![Ibrahim's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ibrahim-dad&theme=green&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true)](https://github.com/ibrahim-dad)
+[![zoxionx's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=zoxionx&theme=green&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true&area_color=00FF41&hide_border=true)](https://github.com/zoxionx)
 
 <br>
 
@@ -228,7 +228,7 @@ I build **Telegram bots** for security automation, monitoring, and productivity:
 [![Bluesky](https://img.shields.io/badge/Bluesky-0D1117?style=for-the-badge&logo=bluesky&logoColor=00FF41)](https://bsky.app/profile/afc-pola.bsky.social)
 [![Medium](https://img.shields.io/badge/Medium-0D1117?style=for-the-badge&logo=medium&logoColor=00FF41)](https://medium.com/afc_pola)
 [![Reddit](https://img.shields.io/badge/Reddit-0D1117?style=for-the-badge&logo=reddit&logoColor=00FF41)](https://reddit.com/user/afc_pola)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:ibrahim-dad@proton.me)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:afcpola@gmail.com)
 
 </div>
 
@@ -238,9 +238,9 @@ I build **Telegram bots** for security automation, monitoring, and productivity:
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-0D1117?style=for-the-badge&logoColor=00FF41)](https://ibrahim-portfolio.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-0D1117?style=for-the-badge&logoColor=00FF41)](https:)
 
-**[Click Here](https://ibrahim-portfolio.pages.dev/)**
+**[Click Here](https://)**
 
 </div>
 
@@ -249,11 +249,11 @@ I build **Telegram bots** for security automation, monitoring, and productivity:
 <div align="center">
 
 ```
-┌──(ibrahim㉿kali)-[~]
+┌──(zoxionx㉿kali)-[~]
 └─$ echo "Thanks for visiting! Let's make the digital world safer together."
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=ibrahim&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=zoxionx&color=00FF41&style=for-the-badge&label=PROFILE+VIEWS)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=120&section=footer" width="100%"/>
 
